@@ -1,4 +1,4 @@
-Hello, I am @d4f5409d an Organic Maps translator and contributor. I am currently learning programming such as Python and Rust. I am collaborating on various FOSS projects and I enthusiastically love blockchain technology. Trying to make the world a better place while maintaining pseudonimity. Reach me by writing under any issue here using PGP keys.
+Hello, I am @d4f5409d an Organic Maps translator and contributor. I am currently learning programming such as Python and Rust. I am collaborating on various FOSS projects and I enthusiastically love blockchain technology. Trying to make the world a better place while maintaining pseudonymity. Reach me by writing under any issue here using PGP keys.
 
 My Public Key:
 ```
