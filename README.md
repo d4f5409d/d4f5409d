@@ -9,6 +9,7 @@ Comment: Expires:	2026. 03. 02. 12:00
 Comment: Type:	3 072-bit RSA (secret key available)
 Comment: Usage:	Signing, Encryption, Certifying User-IDs
 Comment: Fingerprint:	596F38DBD807A035E7BB5E8E91FFD0F91692920F
+Comment: Key-ID: 91FFD0F91692920F
 
 mQGNBGXjFFkBDADJ21PTH0O0zs4kZDJefavl3iIUeSY8FROGzsaoC01TZ6nws8yh
 ksW4oriwYSf3OIHwv2wfj5noqIab4OI0KK9Y34Ajt8+9ZT10/53Z9mJkWDC8Ggbm
