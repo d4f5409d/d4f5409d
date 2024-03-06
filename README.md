@@ -1,4 +1,9 @@
-Hello, I am **FalconFist** (*d4f5409d*) an Organic Maps translator and contributor. I am currently learning programming such as Python and Rust. I am collaborating on various FOSS projects and I enthusiastically love blockchain technology. Trying to make the world a better place while maintaining pseudonymity. Reach me by writing under any issue here using PGP keys.
+Hello, I am **FalconFist** (*d4f5409d*) an Organic Maps translator and contributor. I am currently learning programming such as Python and Rust. I am collaborating on various FOSS projects and I enthusiastically love blockchain technology. Trying to make the world a better place while maintaining pseudonymity. **Reach me by my SimpleX address**. *I'll only reply, if you provide a PGP key* in your README.md or under the issue you replied to me.
+
+My SimpleX Address:
+```
+https://simplex.chat/contact#/?v=1-4&smp=smp%3A%2F%2FenEkec4hlR3UtKx2NMpOUK_K4ZuDxjWBO1d9Y4YXVaA%3D%40smp14.simplex.im%2FNUIKBOI6fkd6vkK776TVDr2Gq6XwfGDO%23%2F%3Fv%3D1-2%26dh%3DMCowBQYDK2VuAyEAhPtlWImJHgnJ_qtGoKUPYmNsTo-pYED-FpwEl6Zpr08%253D%26srv%3Daspkyu2sopsnizbyfabtsicikr2s4r3ti35jogbcekhm3fsoeyjvgrid.onion
+```
 
 My Public Key:
 ```
