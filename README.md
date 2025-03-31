@@ -8,13 +8,13 @@ My SimpleX Address:
 
 <img src="simplex-address-qr.png" alt="SimpleX-QR" width="300"/>
 
-Or copy and paste this into your app:
+**Or copy and paste this into your app:**
 
 ```
 https://simplex.chat/contact#/?v=1-4&smp=smp%3A%2F%2FenEkec4hlR3UtKx2NMpOUK_K4ZuDxjWBO1d9Y4YXVaA%3D%40smp14.simplex.im%2FNUIKBOI6fkd6vkK776TVDr2Gq6XwfGDO%23%2F%3Fv%3D1-2%26dh%3DMCowBQYDK2VuAyEAhPtlWImJHgnJ_qtGoKUPYmNsTo-pYED-FpwEl6Zpr08%253D%26srv%3Daspkyu2sopsnizbyfabtsicikr2s4r3ti35jogbcekhm3fsoeyjvgrid.onion
 ```
 
-My Public Key:
+### My Public Key:
 ```
 -----BEGIN PGP PUBLIC KEY BLOCK-----
 Comment: User-ID:	d4f5409d <76624594+d4f5409d@users.noreply.github.com>
