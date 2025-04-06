@@ -1,25 +1,47 @@
-### Biography
-Hello, I am **FalconFist** (*d4f5409d*) an Organic Maps translator and contributor. I collaborate on various free and open source software projects mainly with my ideas, but I am currently learning programming such as Python and Rust. I enthusiastically love blockchain technology. Trying to make the world a better place while maintaining my pseudonymity.
+<h3 align="center">
+  Biography
+</h3>
 
-  
+<p align="center">Hello, I am <b>FalconFist</b> (<i>d4f5409d</i>) an Organic Maps translator and contributor. I collaborate on various free and open source software projects mainly with my ideas, but I am currently learning programming such as Python and Rust. I enthusiastically love blockchain technology. Trying to make the world a better place while maintaining my pseudonymity.
+</p>
 
-### Connect with me
-**Reach me by my SimpleX address by [clicking here](https://simplex.chat/contact#/?v=1-4&smp=smp%3A%2F%2FenEkec4hlR3UtKx2NMpOUK_K4ZuDxjWBO1d9Y4YXVaA%3D%40smp14.simplex.im%2FNUIKBOI6fkd6vkK776TVDr2Gq6XwfGDO%23%2F%3Fv%3D1-2%26dh%3DMCowBQYDK2VuAyEAhPtlWImJHgnJ_qtGoKUPYmNsTo-pYED-FpwEl6Zpr08%253D%26srv%3Daspkyu2sopsnizbyfabtsicikr2s4r3ti35jogbcekhm3fsoeyjvgrid.onion)**.
+<h3 align="center">
+  My Github statistics
+</h3>
+<p align="center">
+  <img height="220" alt="GitHub stats" src="https://github-readme-stats.vercel.app/api?username=d4f5409d&theme=synthwave&show_icons=true&hide_title=true">
+</p>
+<br><br>
 
-You can also scan my SimpleX Address:
+<h3 align="center">
+Connect with me
+</h3>
+<p align="center"><b>
+Reach me by my SimpleX address by <a href="https://simplex.chat/contact#/?v=1-4&smp=smp%3A%2F%2FenEkec4hlR3UtKx2NMpOUK_K4ZuDxjWBO1d9Y4YXVaA%3D%40smp14.simplex.im%2FNUIKBOI6fkd6vkK776TVDr2Gq6XwfGDO%23%2F%3Fv%3D1-2%26dh%3DMCowBQYDK2VuAyEAhPtlWImJHgnJ_qtGoKUPYmNsTo-pYED-FpwEl6Zpr08%253D%26srv%3Daspkyu2sopsnizbyfabtsicikr2s4r3ti35jogbcekhm3fsoeyjvgrid.onion">clicking here</a>.
+</b></p>
 
-<img src="simplex-address-qr.png" alt="SimpleX-QR" width="300"/>
+<br>
+<p align="center">
+  <b>You can also scan my SimpleX Address:</b>
+</p>
 
-**Or copy and paste this into your app:**
+<p align="center">
+  <img src="simplex-address-qr.png" alt="SimpleX-QR" width="300"/>
+</p>
+
+<br>
+
+<p align="center">
+<b>Or copy and paste this into your app:</b>
+</p>
 
 ```
 https://simplex.chat/contact#/?v=1-4&smp=smp%3A%2F%2FenEkec4hlR3UtKx2NMpOUK_K4ZuDxjWBO1d9Y4YXVaA%3D%40smp14.simplex.im%2FNUIKBOI6fkd6vkK776TVDr2Gq6XwfGDO%23%2F%3Fv%3D1-2%26dh%3DMCowBQYDK2VuAyEAhPtlWImJHgnJ_qtGoKUPYmNsTo-pYED-FpwEl6Zpr08%253D%26srv%3Daspkyu2sopsnizbyfabtsicikr2s4r3ti35jogbcekhm3fsoeyjvgrid.onion
 ```
+<br>
 
-  
+<h3 align="center">My Public Key:</h3>
 
-
-### My Public Key:
 ```
 -----BEGIN PGP PUBLIC KEY BLOCK-----
 Comment: User-ID:	d4f5409d <76624594+d4f5409d@users.noreply.github.com>
