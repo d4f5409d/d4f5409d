@@ -3,7 +3,7 @@
 </h3>
 
 <p align="center">Hello, I am <b>FalconFist</b> (<i>d4f5409d</i>). 
-I collaborate on various free and open source software projects mainly with my ideas, but I am currently learning programming such as Python and Rust. I enthusiastically love blockchain technology. Trying to make the world a better place while maintaining my pseudonymity.
+I collaborate on various free and open source software projects mainly with my ideas, but I am currently learning programming languages such as Python and Rust. I enthusiastically love blockchain technology. Trying to make the world a better place while maintaining my pseudonymity.
 </p>
 
 <h3 align="center">
